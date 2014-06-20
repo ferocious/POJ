@@ -1,4 +1,4 @@
-package zad1.definiowanie.klas;
+package zad1;
 
 import java.util.HashSet;
 import java.util.Set;

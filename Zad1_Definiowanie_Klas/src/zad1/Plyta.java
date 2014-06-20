@@ -1,4 +1,4 @@
-package zad1.definiowanie.klas;
+package zad1;
 
 import java.util.ArrayList;
 import java.util.HashSet;
